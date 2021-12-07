@@ -10,7 +10,7 @@ run binary file
 
     ./blue-vending-machine
     
-or run go program
+or run with go syntax
 
     go run main.go
 
