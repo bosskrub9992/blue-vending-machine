@@ -1,15 +1,15 @@
 # blue-vending-machine
 
-##build
+## build
 
-    `go build`
+    go build
 
-##run
+## run
 
-    `./blue-vending-machine`
+    ./blue-vending-machine
 or
-    `go run main.go`
+    go run main.go
 
-##test
+## test
 
     `go test`
