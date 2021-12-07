@@ -6,10 +6,14 @@
 
 ## run
 
+run binary file
+
     ./blue-vending-machine
-or
+    
+or run go program
+
     go run main.go
 
 ## test
 
-    `go test`
+    go test
