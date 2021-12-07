@@ -147,7 +147,7 @@ func main() {
 			fmt.Printf("here is your %s\n", product.Name)
 			change := custMoney - product.Price
 			if change > 0 {
-				fmt.Printf("And your change is %d\n", change)
+				fmt.Printf("And your change is %d THB\n", change)
 			}
 
 			fmt.Printf("Thank you!\n\n")
